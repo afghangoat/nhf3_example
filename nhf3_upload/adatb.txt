@@ -1,0 +1,23 @@
+0 A Gyűrűk Ura|178 2001
+1 Verdák|120 2006 6
+2 Kék bolygó|90 2020 Ez egy dokumentumfilm az óceánokról
+0 Eredet|148 2010
+1 Jégvarázs|102 2013 5
+2 A világegyetem|60 2019 Tudományos dokumentumfilm az univerzumról
+0 Interstellar|169 2014
+1 Szenilla nyomában|97 2016 6
+2 Az emberi test|85 2021 Ismeretterjesztő film az emberi testről
+0 Tenet|150 2020
+1 Toy Story|81 1995 4
+2 Az ősi Egyiptom|70 2018 Egy dokumentumfilm az ókori egyiptomi civilizációról
+0 A remény rabjai|142 1994
+1 Nemo nyomában|100 2003 6
+2 A Föld arca|55 2015 Természetfilm a földrajzi képződményekről
+0 A sötét lovag|152 2008
+1 Shrek|90 2001 7
+2 A világűr felfedezése|75 2010 Dokumentumfilm az űrkutatásról
+0 A hét mesterlövész|128 1960
+1 Lecsó|111 2007 6
+2 Az állatok birodalma|80 2022 Egy állatokról szóló természetfilm
+0 Gladiátor|155 2000
+1 Agymanók|95 2015 6
